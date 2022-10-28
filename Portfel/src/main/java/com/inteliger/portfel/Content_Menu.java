@@ -16,6 +16,7 @@ import java.util.GregorianCalendar;
  */
 public class Content_Menu extends javax.swing.JFrame {
 
+    //coś nowego
     GregorianCalendar kalendarz = new GregorianCalendar();
     
     public Content_Menu() {
